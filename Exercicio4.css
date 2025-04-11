@@ -1,0 +1,145 @@
+body {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+.card-1{
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgb(206, 49, 101);
+    overflow: hidden;
+    width: 250px;
+    transition: transform 0.3s;
+}
+.card-1:hover{
+    transform: translateY(-10px);
+}
+.card-content-1 h3{
+    padding: 15px;
+    text-align: center;
+}
+.card-content-1{
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
+.card-content-1 p{
+    color: palevioletred;
+    font-size: 14px;
+}
+.button1{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: palevioletred;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+.button1:hover{
+    background-color:rgb(194, 64, 107);
+}
+.img1{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.img2{
+    width:100% ;
+    height:200px ;
+    object-fit: cover;
+}
+.img3{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-2{
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgb(206, 49, 101);
+    overflow: hidden;
+    width: 250px;
+    transition: transform 0.3s;
+}
+.card-2:hover{
+    transform: translateY(-10px);
+}
+.card-content-2 h3{
+    padding: 15px;
+    text-align: center;
+}
+.card-content-2{
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
+.card-content-2 p{
+    color: palevioletred;
+    font-size: 14px;
+}
+.button2{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: palevioletred;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+    .button2:hover{
+        background-color:rgb(194, 64, 107);
+    }
+
+    
+    .card-3{
+        background-color: black;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgb(206, 49, 101);
+        overflow: hidden;
+        width: 250px;
+        transition: transform 0.3s;
+    }
+    .card-3:hover{
+        transform: translateY(-10px);
+    }
+    .card-content-3 h3{
+        padding: 15px;
+        text-align: center;
+    }
+    .card-content-3{
+        margin: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: beige;
+    }
+    .card-content-3 p{
+        color: palevioletred;
+        font-size: 14px;
+    }
+    .button3{
+        display: inline-block;
+        margin-top: 10px;
+        padding: 10px;
+        background-color: palevioletred;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+        .button3:hover{
+            background-color:rgb(194, 64, 107);
+        }
+        
+    

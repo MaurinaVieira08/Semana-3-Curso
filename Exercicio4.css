@@ -13,7 +13,7 @@ body {
     gap: 20px;
 }
 .card-1{
-    background-color: black;
+    background-color: palevioletred;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgb(206, 49, 101);
     overflow: hidden;
